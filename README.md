@@ -1,17 +1,17 @@
-[README_v4.md](https://github.com/user-attachments/files/33941303/README_v4.md)
+[README_v5_preto.md](https://github.com/user-attachments/files/33941344/README_v5_preto.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0f00,50:FF6A00,100:FFB347&height=260&section=header&text=JOÃO%20VICTOR&fontSize=70&fontColor=FFFFFF&stroke=FF6A00&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=%7B%20FullStack%20Developer%20%7D&descSize=22&descColor=FFFFFF&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:3d3d3d,55:6b6b6b,100:000000&height=260&section=header&text=JOÃO%20VICTOR&fontSize=70&fontColor=FFFFFF&stroke=C9CED6&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=%7B%20FullStack%20Developer%20%7D&descSize=22&descColor=FFFFFF&descAlignY=60" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%9A%80+Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es;%F0%9F%92%BB+Java+%7C+C%2B%2B+%7C+JavaScript;%F0%9F%8C%90+HTML+%2B+CSS+%2B+muita+criatividade;%F0%9F%93%88+Sempre+evoluindo%2C+um+commit+por+vez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E5E7EB&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%9A%80+Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es;%F0%9F%92%BB+Java+%7C+C%2B%2B+%7C+JavaScript;%F0%9F%8C%90+HTML+%2B+CSS+%2B+muita+criatividade;%F0%9F%93%88+Sempre+evoluindo%2C+um+commit+por+vez" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![Status](https://img.shields.io/badge/STATUS-APRENDENDO%20SEMPRE-FF6A00?style=for-the-badge&labelColor=1a1a1a)
-![Local](https://img.shields.io/badge/MINAS%20GERAIS-BRASIL-FF6A00?style=for-the-badge&labelColor=1a1a1a)
-![Foco](https://img.shields.io/badge/FOCO-FULLSTACK-FF6A00?style=for-the-badge&labelColor=1a1a1a)
+![Status](https://img.shields.io/badge/STATUS-APRENDENDO%20SEMPRE-2d2d2d?style=for-the-badge&labelColor=1a1a1a)
+![Local](https://img.shields.io/badge/MINAS%20GERAIS-BRASIL-2d2d2d?style=for-the-badge&labelColor=1a1a1a)
+![Foco](https://img.shields.io/badge/FOCO-FULLSTACK-2d2d2d?style=for-the-badge&labelColor=1a1a1a)
 
 </div>
 
@@ -42,7 +42,7 @@ Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com
 ### 🔶 Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="55" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/FF6A00" alt="GitHub" title="GitHub" width="55" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/C9CED6" alt="GitHub" title="GitHub" width="55" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="55" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="55" />
 
@@ -52,15 +52,16 @@ Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com
 
 ## Cursos e Certificações
 
-| Curso | Instituição | Emissão |
-|-------|-------------|---------|
-| [Java Development](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=5c5664c456e27ccf0c4de132af41288a&action=view) | FIAP | Out. 2026 |
-| [Engenharia de Software](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=36d9962eb7c6d2f1ca9ac3084536018f&action=view) | FIAP | Out. 2026 |
-| GitHub \| Git | Microsoft | Out. 2026 |
-| Programação Back-End (Lógica de Programação e Programação com Java) | IFSUL - Instituto Federal Sul-rio-grandense | Jul. 2026 |
-| Java POO | Curso em Vídeo | Abr. 2026 |
-| Desenvolvimento de Sistemas Web: CSS e HTML | Fundação Getulio Vargas | Abr. 2026 |
-| Introdução a POO | Fundação Bradesco | Fev. 2026 |
+| Curso | Instituição | Carga horária | Data |
+|-------|-------------|:-------------:|------|
+| [Java Development](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=5c5664c456e27ccf0c4de132af41288a&action=view) | FIAP | — | Out. 2026 |
+| [Engenharia de Software](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=36d9962eb7c6d2f1ca9ac3084536018f&action=view) | FIAP | — | Out. 2026 |
+| [Introdução ao Git](https://learn.microsoft.com/pt-br/users/joovictorbarbosa-0223/achievements/print/egvmcugp) | Microsoft Learn | — | 21/10/2026 |
+| Programação Básica com Java I | IFRS - Instituto Federal do Rio Grande do Sul | 40h | 11 a 20/07/2026 |
+| Lógica de Programação: começando a desenvolver seus primeiros programas | IFRS - Instituto Federal do Rio Grande do Sul | 20h | 11 a 20/07/2026 |
+| Java POO | Curso em Vídeo | — | Abr. 2026 |
+| Desenvolvimento de Sistemas Web: CSS e HTML | FGV Online - Fundação Getulio Vargas | 15h | 07/04/2026 |
+| Introdução à Programação Orientada a Objetos (POO) | Fundação Bradesco - Escola Virtual | 5h | 14/02/2026 |
 
 <br/>
 
@@ -69,19 +70,19 @@ Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-barbosa-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FF6A00?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/fr.jotave/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-FF6A00?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:joaovictorbarbosa.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF6A00?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FF6A00,100:1a0f00&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4a4a4a,100:000000&height=120&section=footer" width="100%" />
 
 </div>
