@@ -1,4 +1,4 @@
-[README_v2.md](https://github.com/user-attachments/files/33941194/README_v2.md)
+[README_v3.md](https://github.com/user-attachments/files/33941242/README_v3.md)
 
 <div align="center">
 
@@ -18,26 +18,11 @@
 
 <br/>
 
-## 👋 Quem sou eu
-
-```js
-const joaoVictor = {
-  nome: "João Victor Barbosa",
-  cargo: "Desenvolvedor FullStack",
-  formacao: "Técnico em Informática",
-  local: "Minas Gerais, Brasil",
-  linguagens: ["Java", "C++", "JavaScript", "HTML", "CSS"],
-  ferramentas: ["Git", "GitHub", "IntelliJ IDEA", "VS Code"],
-  objetivo: "Me tornar um dev cada vez mais completo 🚀",
-  frase: "Cada projeto é uma oportunidade de crescer."
-};
-```
-
 Sou apaixonado por tecnologia desde cedo e estou sempre em busca de novas linguagens, ferramentas e boas práticas. Meu objetivo é estar preparado para os desafios do mercado, evoluindo um projeto de cada vez.
 
 <br/>
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -62,22 +47,16 @@ Sou apaixonado por tecnologia desde cedo e estou sempre em busca de novas lingua
 
 <br/>
 
-## 🎯 Metas atuais
-
-- [x] Concluir o ensino médio com curso técnico em Informática
-- [ ] Aprofundar em Java e programação orientada a objetos
-- [ ] Construir projetos FullStack completos
-- [ ] Evoluir em boas práticas e versionamento com Git
-- [ ] Conquistar a primeira oportunidade no mercado 🚀
-
-<br/>
-
-## 📫 Vamos conversar?
+## Vamos conversar?
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-barbosa-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FF6A00?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/fr.jotave/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FFB347?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:joaovictorbarbosa.dev@gmail.com">
