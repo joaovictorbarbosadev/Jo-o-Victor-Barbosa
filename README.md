@@ -1,5 +1,4 @@
-[README_v3.md](https://github.com/user-attachments/files/33941242/README_v3.md)
-
+[README_v4.md](https://github.com/user-attachments/files/33941303/README_v4.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0f00,50:FF6A00,100:FFB347&height=260&section=header&text=JOÃO%20VICTOR&fontSize=70&fontColor=FFFFFF&stroke=FF6A00&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=%7B%20FullStack%20Developer%20%7D&descSize=22&descColor=FFFFFF&descAlignY=60" width="100%" />
@@ -11,14 +10,18 @@
 <br/><br/>
 
 ![Status](https://img.shields.io/badge/STATUS-APRENDENDO%20SEMPRE-FF6A00?style=for-the-badge&labelColor=1a1a1a)
-![Local](https://img.shields.io/badge/MINAS%20GERAIS-BRASIL-FF8C00?style=for-the-badge&labelColor=1a1a1a)
-![Foco](https://img.shields.io/badge/FOCO-FULLSTACK-FFB347?style=for-the-badge&labelColor=1a1a1a)
+![Local](https://img.shields.io/badge/MINAS%20GERAIS-BRASIL-FF6A00?style=for-the-badge&labelColor=1a1a1a)
+![Foco](https://img.shields.io/badge/FOCO-FULLSTACK-FF6A00?style=for-the-badge&labelColor=1a1a1a)
 
 </div>
 
 <br/>
 
-Sou apaixonado por tecnologia desde cedo e estou sempre em busca de novas linguagens, ferramentas e boas práticas. Meu objetivo é estar preparado para os desafios do mercado, evoluindo um projeto de cada vez.
+## Sobre mim
+
+Sou apaixonado por tecnologia desde cedo, trabalho com desenvolvimento FullStack e diariamente aprimoro meus conhecimentos em diversas tecnologias, como: **C++, POO, Java, HTML, CSS, JavaScript, Informática Básica, Lógica de Programação, Robótica, Sistemas Operacionais, Arquitetura e Manutenção de Computadores, Inovação Social e Científica**.
+
+Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com as novas tendências do mercado, evoluindo um projeto de cada vez.
 
 <br/>
 
@@ -47,6 +50,20 @@ Sou apaixonado por tecnologia desde cedo e estou sempre em busca de novas lingua
 
 <br/>
 
+## Cursos e Certificações
+
+| Curso | Instituição | Emissão |
+|-------|-------------|---------|
+| [Java Development](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=5c5664c456e27ccf0c4de132af41288a&action=view) | FIAP | Out. 2026 |
+| [Engenharia de Software](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=36d9962eb7c6d2f1ca9ac3084536018f&action=view) | FIAP | Out. 2026 |
+| GitHub \| Git | Microsoft | Out. 2026 |
+| Programação Back-End (Lógica de Programação e Programação com Java) | IFSUL - Instituto Federal Sul-rio-grandense | Jul. 2026 |
+| Java POO | Curso em Vídeo | Abr. 2026 |
+| Desenvolvimento de Sistemas Web: CSS e HTML | Fundação Getulio Vargas | Abr. 2026 |
+| Introdução a POO | Fundação Bradesco | Fev. 2026 |
+
+<br/>
+
 ## Vamos conversar?
 
 <div align="center">
@@ -56,11 +73,11 @@ Sou apaixonado por tecnologia desde cedo e estou sempre em busca de novas lingua
 </a>
 &nbsp;
 <a href="https://www.instagram.com/fr.jotave/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-FFB347?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-FF6A00?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:joaovictorbarbosa.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF8C00?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-FF6A00?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
