@@ -1,81 +1,78 @@
-[README.md](https://github.com/user-attachments/files/33941172/README.md)
+[README_v2.md](https://github.com/user-attachments/files/33941194/README_v2.md)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6A00&height=200&section=header&text=JOÃO%20VICTOR&fontSize=60&fontColor=FF8C00&fontAlignY=40&desc=SOFTWARE%20ENGINEERING&descSize=18&descColor=FF8C00&descAlignY=65" width="100%" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0f00,50:FF6A00,100:FFB347&height=260&section=header&text=JOÃO%20VICTOR&fontSize=70&fontColor=FFFFFF&stroke=FF6A00&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=%7B%20FullStack%20Developer%20%7D&descSize=22&descColor=FFFFFF&descAlignY=60" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=%3E+Initializing+developer+profile...;%3E+Desenvolvedor+FullStack;%3E+Sempre+evoluindo..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%9A%80+Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es;%F0%9F%92%BB+Java+%7C+C%2B%2B+%7C+JavaScript;%F0%9F%8C%90+HTML+%2B+CSS+%2B+muita+criatividade;%F0%9F%93%88+Sempre+evoluindo%2C+um+commit+por+vez" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+![Status](https://img.shields.io/badge/STATUS-APRENDENDO%20SEMPRE-FF6A00?style=for-the-badge&labelColor=1a1a1a)
+![Local](https://img.shields.io/badge/MINAS%20GERAIS-BRASIL-FF8C00?style=for-the-badge&labelColor=1a1a1a)
+![Foco](https://img.shields.io/badge/FOCO-FULLSTACK-FFB347?style=for-the-badge&labelColor=1a1a1a)
 
 </div>
 
 <br/>
 
----
+## 👋 Quem sou eu
 
-## `> ABOUT_ME`
+```js
+const joaoVictor = {
+  nome: "João Victor Barbosa",
+  cargo: "Desenvolvedor FullStack",
+  formacao: "Técnico em Informática",
+  local: "Minas Gerais, Brasil",
+  linguagens: ["Java", "C++", "JavaScript", "HTML", "CSS"],
+  ferramentas: ["Git", "GitHub", "IntelliJ IDEA", "VS Code"],
+  objetivo: "Me tornar um dev cada vez mais completo 🚀",
+  frase: "Cada projeto é uma oportunidade de crescer."
+};
+```
 
----
-
-Olá! Eu sou **João Victor Barbosa**, desenvolvedor **FullStack** natural de Minas Gerais, apaixonado por tecnologia e programação.
-
-Estou concluindo o ensino médio em tempo integral com **curso técnico em Informática**, e venho construindo projetos para transformar conhecimento em aplicações reais.
-
-Meu foco atual está em evoluir minhas habilidades em **programação, orientação a objetos, desenvolvimento web** e boas práticas de desenvolvimento. Acredito que cada projeto é uma oportunidade de crescer, e meu objetivo é me tornar um desenvolvedor cada vez mais completo e preparado para os desafios do mercado.
+Sou apaixonado por tecnologia desde cedo e estou sempre em busca de novas linguagens, ferramentas e boas práticas. Meu objetivo é estar preparado para os desafios do mercado, evoluindo um projeto de cada vez.
 
 <br/>
 
----
-
-## `> TECH_STACK`
-
----
+## ⚡ Tech Stack
 
 <div align="center">
 
-<br/>
+### 🔶 Linguagens
 
-<kbd> **LANGUAGES** </kbd>
-
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="50" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="50" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="50" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="50" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" />
-&nbsp;
-<img src="https://img.shields.io/badge/POO-FF6A00?style=for-the-badge&logo=gitbook&logoColor=white" alt="POO" title="Programação Orientada a Objetos" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="55" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="55" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="55" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="55" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="55" />
 
 <br/><br/>
 
-<kbd> **SKILLS & TOOLS** </kbd>
+### 🔶 Ferramentas
 
-<br/><br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="50" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="50" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="50" />
-
-<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="55" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/FF6A00" alt="GitHub" title="GitHub" width="55" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="55" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="55" />
 
 </div>
 
----
+<br/>
 
-## `> CONNECT`
+## 🎯 Metas atuais
 
----
+- [x] Concluir o ensino médio com curso técnico em Informática
+- [ ] Aprofundar em Java e programação orientada a objetos
+- [ ] Construir projetos FullStack completos
+- [ ] Evoluir em boas práticas e versionamento com Git
+- [ ] Conquistar a primeira oportunidade no mercado 🚀
+
+<br/>
+
+## 📫 Vamos conversar?
 
 <div align="center">
 
@@ -87,6 +84,8 @@ Meu foco atual está em evoluir minhas habilidades em **programação, orientaç
   <img src="https://img.shields.io/badge/Gmail-FF8C00?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6A00&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FF6A00,100:1a0f00&height=120&section=footer" width="100%" />
+
+</div>
