@@ -1,15 +1,10 @@
-[README_laranja.md](https://github.com/user-attachments/files/33941447/README_laranja.md)
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FF6A00,100:1a0f00&height=120&section=footer" width="100%" />
-
-</div>
+[README.md](https://github.com/user-attachments/files/33941498/README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0f00,50:FF6A00,100:FFB347&height=260&section=header&text=JOÃO%20VICTOR&fontSize=70&fontColor=FFFFFF&stroke=FF6A00&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=%7B%20FullStack%20Developer%20%7D&descSize=22&descColor=FFFFFF&descAlignY=60" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%9A%80+Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es;%F0%9F%92%BB+Java+%7C+C%2B%2B+%7C+JavaScript;%F0%9F%8C%90+HTML+%2B+CSS+%2B+muita+criatividade;%F0%9F%93%88+Sempre+evoluindo%2C+um+commit+por+vez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%9A%80+Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es;%F0%9F%92%BB+Java+%7C+C%2B%2B+%7C+JavaScript;%F0%9F%93%88+Sempre+evoluindo%2C+um+commit+por+vez" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -65,9 +60,18 @@ Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com
 | [Introdução ao Git e GitHub](https://learn.microsoft.com/pt-br/users/joovictorbarbosa-0223/achievements/print/egvmcugp) | Microsoft Learn | 20h | 21/10/2026 |
 | [Programação Básica com Java I](certificados/programacao-basica-java.png) | IFRS - Instituto Federal do Rio Grande do Sul | 40h | 11 a 20/07/2026 |
 | [Lógica de Programação: começando a desenvolver seus primeiros programas](certificados/logica-de-programacao.png) | IFRS - Instituto Federal do Rio Grande do Sul | 20h | 11 a 20/07/2026 |
-| Java POO | Curso em Vídeo | 40h | Abr. 2026 |
+| [Java POO](certificados/java-poo.png) | Curso em Vídeo | 40h | Abr. 2026 |
 | [Desenvolvimento de Sistemas Web: CSS e HTML](certificados/fgv-css-html.png) | FGV Online - Fundação Getulio Vargas | 15h | 07/04/2026 |
 | [Introdução à Programação Orientada a Objetos (POO)](certificados/introducao-poo.png) | Fundação Bradesco - Escola Virtual | 5h | 14/02/2026 |
+
+<br/>
+
+## Idiomas
+
+| Idioma | Nível |
+|--------|-------|
+| Inglês | Intermediário · Duolingo Score 128 (Out. 2026) |
+| Português | Fluente ou nativo |
 
 <br/>
 
