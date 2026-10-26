@@ -1,8 +1,4 @@
-<img width="1287" height="910" alt="fgv-css-html" src="https://github.com/user-attachments/assets/c934ab4b-7153-4bdc-a282-fbe092c816ad" />
-<img width="1287" height="880" alt="logica-de-programacao" src="https://github.com/user-attachments/assets/233bbe3d-9606-44b3-9df0-d578eab3dde5" />
-<img width="1287" height="880" alt="programacao-basica-java" src="https://github.com/user-attachments/assets/8455eabe-d390-4198-abab-a050a18081e2" />
-<img width="1210" height="935" alt="introducao-poo" src="https://github.com/user-attachments/assets/e873bcbd-1449-4946-ab76-cff48a9f18fe" />
-<img width="951" height="522" alt="java-poo" src="https://github.com/user-attachments/assets/0b32c198-5c69-49d0-b84e-fe5a913ec269" />
+
 [README.md](https://github.com/user-attachments/files/33941498/README.md)
 <div align="center">
 
